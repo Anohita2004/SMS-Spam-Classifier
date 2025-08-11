@@ -39,6 +39,9 @@ It leverages **NLTK** for text preprocessing and **scikit-learn** for model trai
 └── README.md # Documentation
 
 ---
+##  Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/7d0a6e03-8d43-435b-9e52-ad31fbdd00dd)
 
 ## 🛠 Installation & Setup  
 
@@ -74,3 +77,4 @@ Total messages: 5,574
 Labels: ham (legit) / spam (junk)
 
 Format: CSV with two columns – label & message
+
