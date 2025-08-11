@@ -16,6 +16,9 @@ This project is a **spam detection web app** that classifies incoming text messa
 It leverages **NLTK** for text preprocessing and **scikit-learn** for model training, with a sleek **Streamlit** frontend for real-time predictions.  
 
 ---
+## Pipeline:
+![App Screenshot](https://github.com/Anohita2004/SMS-Spam-Classifier/blob/main/sms_spam_pipeline.png)
+
 
 ## 🚀 Features  
 - ✅ Classifies messages into **Spam** or **Ham**  
