@@ -42,6 +42,8 @@ It leverages **NLTK** for text preprocessing and **scikit-learn** for model trai
 ##  Screenshots
 
 ![App Screenshot](https://github.com/user-attachments/assets/7d0a6e03-8d43-435b-9e52-ad31fbdd00dd)
+![App Screenshot](https://github.com/Anohita2004/SMS-Spam-Classifier/blob/main/spammm_2.png)
+
 
 ## 🛠 Installation & Setup  
 
